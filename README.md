@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Eileen Amarachi Chuba**, a second-year Computer Science (Data Science and AI) student at the University of Dundee with a growing interest in machine learning, artificial intelligence and software development.
 
-**Live site:** https://amarachichuba-star.github.io/My-portfolio/
+**Live site:** [https://amarachichuba-star.github.io/My-portfolio/](https://amarachichuba-star.github.io/amarachichuba.github/)
 
 ## What's on the site
 
